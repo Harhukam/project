@@ -2,9 +2,9 @@
 
 
  $DB_HOST = 'localhost';
- $DB_USER = 'mywezvus_project';
- $DB_PASS = 'Tata#123';
- $DB_NAME = 'mywezvus_project';
+ $DB_USER = 'db_username';
+ $DB_PASS = 'db_pass';
+ $DB_NAME = 'db_name';
 
 try{
 $DB_con = new PDO("mysql:host={$DB_HOST};dbname={$DB_NAME}",$DB_USER,$DB_PASS);
