@@ -1,0 +1,147 @@
+[12-May-2018 06:37:56 America/New_York] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/mywezvus/project.mywebdeal.in/db_config.php on line 14
+[12-May-2018 06:38:02 America/New_York] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/mywezvus/project.mywebdeal.in/db_config.php on line 14
+[12-May-2018 06:38:15 America/New_York] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/mywezvus/project.mywebdeal.in/db_config.php on line 14
+[12-May-2018 06:39:02 America/New_York] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/mywezvus/project.mywebdeal.in/db_config.php on line 14
+[12-May-2018 06:39:07 America/New_York] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/mywezvus/project.mywebdeal.in/db_config.php on line 14
+[12-May-2018 06:40:02 America/New_York] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/mywezvus/project.mywebdeal.in/db_config.php on line 14
+[12-May-2018 12:29:24 America/New_York] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/mywezvus/project.mywebdeal.in/db_config.php on line 14
+[12-May-2018 12:30:35 America/New_York] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/mywezvus/project.mywebdeal.in/db_config.php on line 14
+[12-May-2018 23:19:28 America/New_York] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/mywezvus/project.mywebdeal.in/db_config.php on line 14
+[13-May-2018 02:09:05 America/New_York] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/mywezvus/project.mywebdeal.in/db_config.php on line 14
+[15-May-2018 11:09:04 America/New_York] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/mywezvus/project.mywebdeal.in/db_config.php on line 14
+[15-May-2018 11:10:36 America/New_York] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/mywezvus/project.mywebdeal.in/db_config.php on line 14
+[03-Jun-2018 10:10:06 America/New_York] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/mywezvus/project.mywebdeal.in/db_config.php on line 14
+[03-Jun-2018 10:26:00 America/New_York] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/mywezvus/project.mywebdeal.in/db_config.php on line 11
+[03-Jun-2018 10:26:29 America/New_York] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/mywezvus/project.mywebdeal.in/db_config.php on line 11
+[03-Jun-2018 10:26:33 America/New_York] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/mywezvus/project.mywebdeal.in/db_config.php on line 11
+[03-Jun-2018 10:26:33 America/New_York] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/mywezvus/project.mywebdeal.in/db_config.php on line 11
+[03-Jun-2018 10:26:34 America/New_York] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/mywezvus/project.mywebdeal.in/db_config.php on line 11
+[03-Jun-2018 10:26:34 America/New_York] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/mywezvus/project.mywebdeal.in/db_config.php on line 11
+[03-Jun-2018 10:26:34 America/New_York] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/mywezvus/project.mywebdeal.in/db_config.php on line 11
+[03-Jun-2018 10:26:35 America/New_York] PHP Parse error:  syntax error, unexpected 'try' (T_TRY) in /home/mywezvus/project.mywebdeal.in/db_config.php on line 11
+[03-Jun-2018 10:28:30 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 10:28:30 America/New_York] PHP Notice:  Undefined variable: DB_con in /home/mywezvus/project.mywebdeal.in/session.php on line 8
+[03-Jun-2018 10:28:30 America/New_York] PHP Fatal error:  Call to a member function prepare() on null in /home/mywezvus/project.mywebdeal.in/session.php on line 8
+[03-Jun-2018 10:56:24 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 10:56:24 America/New_York] PHP Notice:  Undefined variable: DB_con in /home/mywezvus/project.mywebdeal.in/session.php on line 8
+[03-Jun-2018 10:56:24 America/New_York] PHP Fatal error:  Call to a member function prepare() on null in /home/mywezvus/project.mywebdeal.in/session.php on line 8
+[03-Jun-2018 10:56:44 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 10:56:44 America/New_York] PHP Notice:  Undefined variable: DB_con in /home/mywezvus/project.mywebdeal.in/session.php on line 8
+[03-Jun-2018 10:56:44 America/New_York] PHP Fatal error:  Call to a member function prepare() on null in /home/mywezvus/project.mywebdeal.in/session.php on line 8
+[03-Jun-2018 10:57:26 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 10:57:26 America/New_York] PHP Notice:  Undefined variable: DB_con in /home/mywezvus/project.mywebdeal.in/session.php on line 8
+[03-Jun-2018 10:57:26 America/New_York] PHP Fatal error:  Call to a member function prepare() on null in /home/mywezvus/project.mywebdeal.in/session.php on line 8
+[03-Jun-2018 11:03:21 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:03:28 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:03:31 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:03:33 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:03:36 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:03:38 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:03:40 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:03:43 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:03:45 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:03:48 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:03:51 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:03:54 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:03:57 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:04:00 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:04:03 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:04:06 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:04:09 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:04:12 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:04:15 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:04:18 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:04:21 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:04:23 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:04:26 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:04:29 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:04:32 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:04:36 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:04:39 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:04:42 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:04:45 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:04:48 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:04:51 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:04:54 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:04:57 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:05:00 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:05:01 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:05:04 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:05:06 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:05:07 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:05:07 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:05:07 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:05:07 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:05:15 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:05:17 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:05:20 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:05:23 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:05:26 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:05:29 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:05:40 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:05:56 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:06:30 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:06:57 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:07:18 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:07:43 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:07:47 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:07:49 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:07:57 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:08:05 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:08:08 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:08:10 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:08:12 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:08:15 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:08:18 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:08:20 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:08:23 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:08:27 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:08:37 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:08:55 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:09:17 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:09:51 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 6
+[03-Jun-2018 11:13:35 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:13:39 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:13:41 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:13:44 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:13:46 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:13:49 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:13:51 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:13:54 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:13:57 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:14:00 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:14:03 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:14:06 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:14:09 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:14:12 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:14:15 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:14:18 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:14:21 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:14:24 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:14:27 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:14:30 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:14:33 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:14:36 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:14:39 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:14:42 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:14:45 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:14:48 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:14:51 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:14:54 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:14:57 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:15:00 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:15:03 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:15:06 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:15:09 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:15:12 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:15:15 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:15:18 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:15:25 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:15:45 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:16:07 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:16:29 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:16:47 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:17:28 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:17:55 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:18:38 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 5
+[03-Jun-2018 11:30:45 America/New_York] PHP Notice:  Undefined index: login_user in /home/mywezvus/project.mywebdeal.in/session.php on line 3
